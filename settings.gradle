@@ -1,0 +1,3 @@
+rootProject.name = 'spotify-browser'
+
+include 'spotify-browser-jvm', 'spotify-browser-js'
