@@ -1,2 +1,5 @@
 .gradle
 .idea
+/build/
+/spotify-browser-js/build/
+/spotify-browser-jvm/build/
